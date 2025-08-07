@@ -1,6 +1,6 @@
 # Hi there, I'm Javier Sigot 👋
 
---- ![Profile Photo](./profile-photo.jpg)  
+![Profile Photo](./profile-photo.jpg)  
 *Software Engineer | Technical Support Specialist | Problem Solver*
 
 ---
