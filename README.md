@@ -33,7 +33,8 @@ I’m currently focused on improving user experience, automating processes, and 
 
 - 📫 Email: javier.sigot@gmail.com  
 - 🌐 Website / Portfolio: https://github.com/Jsaigor/  
-- 🔗 LinkedIn: https://www.linkedin.com/in/javier-sigot-990342165/  
+- 🔗 LinkedIn: https://www.linkedin.com/in/javier-sigot-990342165/
+- 📞 WhatsApp: https://wa.me/549113440923
 
 ---
 
