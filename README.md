@@ -15,7 +15,8 @@ I’m currently focused on improving user experience, automating processes, and 
 ## Skills & Technologies
 
 - Technical Support & Troubleshooting  
-- Customer Service Excellence  
+- Customer Service Excellence
+- Salesforce administrator  
 - Bug Tracking & Issue Resolution (Jira, Confluence, SMAX, Bitbucket)  
 - Programming: HTML, CSS, JS, PHP, Python
 - Databases: Oracle, SQLite, MySQL
@@ -23,7 +24,7 @@ I’m currently focused on improving user experience, automating processes, and 
 - Middleware: Apache Tomcat, Kafka, RabbitMQ
 - APIs & Tools: Postman, SoapUI
 - Monitoring: Kibana, Grafana, Nagios
-- Development: Visual Studio Code (PHP, JS, HTML, CSS, Python)
+- Development: Visual Studio Code
 - Tools: Wireshark, Toad, SecureCRT, Putty 
 - Communication & Documentation  
 
@@ -39,4 +40,5 @@ I’m currently focused on improving user experience, automating processes, and 
 ---
 
 Thanks for stopping by! Feel free to connect or check out my repositories.
+
 
