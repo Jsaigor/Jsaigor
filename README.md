@@ -28,6 +28,7 @@ I’m currently focused on improving user experience, automating processes, and 
 - Tools: Wireshark, Toad, SecureCRT, Putty 
 - Communication & Documentation  
 
+<img src="19-08-2025_11-43-16.jpg" alt="Logo" width="200">
 ---
 
 ## Contact Me
